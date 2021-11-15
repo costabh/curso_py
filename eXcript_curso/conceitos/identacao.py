@@ -8,4 +8,4 @@ if True:
 
 
 #outra forma não recomendada
-print("oi");print("tchau");
+#print("oi"); print("tchau");
